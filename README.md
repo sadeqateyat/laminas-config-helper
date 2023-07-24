@@ -1,5 +1,3 @@
-![Licence](https://img.shields.io/github/license/tasmaniski/laminas-config-helper) 
-![PHP version](https://img.shields.io/packagist/php-v/tasmaniski/laminas-config-helper)
 
 ```json
 IMPORTANT NOTE: 
@@ -19,7 +17,7 @@ Add in your **composer.json** file:
 ```json
 {
     "require": {
-        "tasmaniski/laminas-config-helper": "^3.0"
+        "sadeqateyatt/laminas-config-helper": "^3.0"
     }
 }
 ```
