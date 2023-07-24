@@ -1,24 +1,24 @@
 {
-    "name": "tasmaniski/laminas-config-helper",
+    "name": "sadeqateyat/laminas-config-helper",
     "description": "Provide Controller plugin and View helper for reading a config.",
     "type": "library",
     "keywords": [
-        "zend framework",
+        "laminas framework",
         "config",
         "helper",
         "plugin"
     ],
     "license": "MIT",
-    "homepage": "https://github.com/tasmaniski/laminas-config-helper",
+    "homepage": "https://github.com/sadeqateyat/laminas-config-helper",
     "authors": [
         {
-            "name": "Aleksandar Varnicic",
-            "email": "tasmaniski@gmail.com"
+            "name": "Sadeq Ateyat",
+            "email": "sad5f@hotmail.com"
         }
     ],
     "require": {
-        "php": ">=5.6",
-        "laminas/laminas-mvc": "^3.0",
+        "php": "^7.4 || ~8.0.0 || ~8.1.0",
+        "laminas/laminas-mvc": "^3.1.1",
         "laminas/laminas-config": "^2.6 | ^3.0",
         "laminas/laminas-dependency-plugin": "^1.0 | ^2.0"
     },
